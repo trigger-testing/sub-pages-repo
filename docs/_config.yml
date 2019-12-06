@@ -37,7 +37,7 @@ commonmark:
 #kramdown: 
 #  input: GFM
 #  parse_block_html: true
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
